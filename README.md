@@ -8,4 +8,4 @@ De data asta fara conflicte.
 O sa incercam inca un commit pe main
 Mai incercam odata.
 
-### Inca odata cu conflicte
+### Aici sunt modificarile mele
