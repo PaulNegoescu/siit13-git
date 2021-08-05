@@ -1,6 +1,7 @@
 # Acesta e un titlu
 
 Adaug aici o linie in develop.
+De data asta fara conflicte.
 
 ## Acesta e un subtitlu
 
