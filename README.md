@@ -7,3 +7,5 @@ De data asta fara conflicte.
 
 O sa incercam inca un commit pe main
 Mai incercam odata.
+
+### Aici sunt modificarile mele
